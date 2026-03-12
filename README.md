@@ -1,8 +1,3 @@
----
-name: finn-jobb
-description: Søk etter stillinger på finn.no med filtrering på nøkkelord, sted, heltid/deltid, bransje og lønn. Bruk denne skillen når brukeren vil finne jobber på finn.no, se ledige stillinger i Norge, filtrere jobbannonser, sammenligne stillinger eller lagre favoritter. Trigger på fraser som "finn jobb", "ledige stillinger", "søk på finn", "hvilke jobber finnes", "vis meg jobber innen X", "sammenlign disse stillingene", eller liknende jobbsøk-relaterte forespørsler knyttet til finn.no. Bruk alltid denne skillen når brukeren nevner finn.no og jobb i samme kontekst.
----
-
 # Finn.no Jobbsøk
 
 Denne skillen guider Claude til å søke etter stillinger på finn.no via nettsøk, presentere relevante resultater og hjelpe brukeren med å filtrere, sammenligne og lagre favoritter.
